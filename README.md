@@ -15,7 +15,7 @@ A Machine Learning-based web application that predicts loan approval for applica
 - scikit-learn (ML modeling)
 - pandas & numpy (data processing)
 - pickle
-🚀 Installation & Setup
+
 
 🚀 **Installation & Setup**
 
