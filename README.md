@@ -1,15 +1,15 @@
-**Loan Approval Prediction App** 💰📊
+# Loan Approval Prediction App 💰📊
 
 A Machine Learning-based web application that predicts loan approval for applicants based on their financial and personal information. It helps individuals and financial institutions make quick, data-driven decisions.
 
-🔥 **Features**
+## 🔥 Features
 
 - Predict loan approval using a trained ML model
 - Real-time predictions based on user input
 - User-friendly interface powered by Streamlit
 - Scalable and easy to deploy
 
-🛠️ **Technologies Used**
+## 🛠️ Technologies Used
 - Python
 - Streamlit (web interface)
 - scikit-learn (ML modeling)
@@ -17,21 +17,24 @@ A Machine Learning-based web application that predicts loan approval for applica
 - pickle
 
 
-🚀 **Installation & Setup**
+## 🚀 **Installation & Setup**
 
-```bash
+
 # Clone the repository
+```
 git clone <your-repo-link>
 cd <repo-folder>
-
+```
 # Install dependencies
+```
 pip install -r requirements.txt
-
+```
 # Run the app
+```
 streamlit run app.py
 ```
 
-📝 **Usage**
+# 📝Usage
 
 - Fill in the applicant details:
    -  Dependents (Number of family members dependent on the applicant)
@@ -61,7 +64,7 @@ The app displays: "Loan Approved" or "Rejected"
 
 🔗 **Live Link** : https://loan-approval-app-rsofappgn752jfzdptfhzht.streamlit.app/
 
-📬 **Author**
+## 📬 Author
 
 Rahul Manchanda
 
