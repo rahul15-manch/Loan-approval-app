@@ -10,11 +10,17 @@ A Machine Learning-based web application that predicts loan approval for applica
 - Scalable and easy to deploy
 
 ## 🛠️ Technologies Used
-- Python
-- Streamlit (web interface)
-- scikit-learn (ML modeling)
-- pandas & numpy (data processing)
-- pickle
+
+| Technology | Description |
+|-------------|-------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Core programming language for ML model and backend logic |
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | Web interface for real-time predictions |
+| ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | Machine Learning modeling and evaluation |
+| ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Data processing and analysis |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Numerical computations and arrays |
+| ![pickle](https://img.shields.io/badge/pickle-009688?style=for-the-badge&logo=python&logoColor=white) | Model serialization for deployment |
+
+
 
 
 ## 🚀 **Installation & Setup**
