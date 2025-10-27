@@ -1,6 +1,32 @@
-# Loan Approval Prediction App 💰📊
+#  💰LendIQ -Smart Loan Eligibility Predictor
 
 A Machine Learning-based web application that predicts loan approval for applicants based on their financial and personal information. It helps individuals and financial institutions make quick, data-driven decisions.
+## 📊 Dataset Used
+
+**Source:** [Loan Approval Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
+
+---
+
+| **Feature**                | **Datatype**   | **Description**                                                                 |
+|-----------------------------|----------------|---------------------------------------------------------------------------------|
+| Loan ID                     | Unique ID      | A unique identifier for each loan application                                   |
+| No. of Dependents           | Integer        | Number of dependents of the applicant                                           |
+| Education                   | Categorical    | Applicant’s education level (e.g., Graduate, Not Graduate)                      |
+| Self Employed               | Categorical    | Whether the applicant is self-employed (Yes/No)                                 |
+| Annual Income               | Integer        | Applicant’s total income per year                                               |
+| Loan Amount                 | Integer        | Total loan amount requested by the applicant                                    |
+| Loan Term (in months)       | Integer        | Duration of the loan in months                                                  |
+| CIBIL Score                 | Integer        | Credit score of the applicant                                                   |
+| Residential Assets Value    | Integer        | Value of the applicant’s residential property                                   |
+| Commercial Assets Value     | Integer        | Value of commercial properties owned by the applicant                           |
+| Luxury Assets Value         | Integer        | Value of luxury assets owned by the applicant (cars, jewelry, etc.)             |
+| Bank Asset Value            | Integer        | Total value of bank deposits or liquid assets                                   |
+
+---
+
+🧠 *This dataset provides crucial financial and demographic information to predict loan approval outcomes using machine learning models.*
+
+
 
 ## 🔥 Features
 
